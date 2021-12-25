@@ -1,16 +1,11 @@
 ### Hola 👋
 
-<!--
-**ArtikUSB/ArtikUSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I work on Pos-Self and discord-cli-py projects
+- 🌱 I’m currently learning nothing :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on xx
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Info
+My name is Artem (nick Artik or PosReady)
+I'm 13 y.o.
+I like programming and snow too.
+
