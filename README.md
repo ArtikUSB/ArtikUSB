@@ -1,6 +1,6 @@
 ### Hola 👋
 
-- 🔭 I work on [Pos-Self](https://gtihub.com/ArtikUSB/Pos-self) and [discord-cli-py](https://github.com/ArtikUSB/discord-cli-py) projects
+- 🔭 I work on [Pos-Self](https://github.com/ArtikUSB/Pos-self) and [discord-cli-py](https://github.com/ArtikUSB/discord-cli-py) projects
 - 🌱 I’m currently learning nothing :)
 
 
