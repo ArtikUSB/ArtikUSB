@@ -6,7 +6,7 @@
 
 ### Info
 My name is Artem (nick Artik or PosReady)
-I'm 13 y.o.
+I'm 14 y.o.
 I like programming and snow too.
 My telegram is [@PosReady3](https://telegram.me/Posready3)
 
